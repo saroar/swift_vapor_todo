@@ -18,6 +18,6 @@ drop.put("api", handler: todoLists.create)
 
 let todoItems = TodoItemController()
 drop.get("api_items", handler: todoItems.index)
-drop.put("api_itmes", handler: todoItems.create)
+drop.put("api_items", handler: todoItems.create)
 
 drop.run()
