@@ -1,0 +1,7 @@
+{
+    "host": "127.0.0.1",
+    "user": "alif",
+    "password": "",
+    "database": "todo_vapor",
+    "port": 5432
+}
